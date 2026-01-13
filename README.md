@@ -20,9 +20,12 @@ A **concurrency-safe** ticket booking backend API built with Node.js, Express, a
 
 ## 🚀 Quick Start
 
-rename the .env.example file to .env 
+
 
 ```bash
+#Rename the .env file
+cp .env.example .env
+
 # Install dependencies
 npm install
 
